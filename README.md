@@ -1,6 +1,6 @@
 # 🤖 AI Contextual Chatbot
 
-Welcome to the **AI Contextual Chatbot**, an exciting project developed as part of my Artificial Intelligence assignment. This chatbot leverages **Natural Language Processing (NLP)** and **Neural Networks** using **TensorFlow** and **TFLearn**, offering intelligent responses based on a custom-built intent file.
+Welcome to the **AI Contextual Chatbot**, This chatbot leverages **Natural Language Processing (NLP)** and **Neural Networks** using **TensorFlow** and **TFLearn**, offering intelligent responses based on a custom-built intent file.
 
 ---
 
